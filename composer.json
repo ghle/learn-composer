@@ -1,0 +1,17 @@
+{
+    "name": "ghle/learn-comopser",
+    "description": "this is a study",
+    "type": "library",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "wjl",
+            "email": "1101452900@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"wjl\\": "src/"}
+        }
+    }
